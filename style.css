@@ -239,7 +239,7 @@
   text-align: center;
 }
 
-.open button {
+.op button {
     font-weight: 800;
     font-style: normal;
     transition: all 0.1s linear;
@@ -297,7 +297,7 @@
     border-radius: 4px;
     color: #5c5b5b; /* Schwarze Textfarbe */
     display: inline-block;
-    font-size: 24px; /* Ändere die Schriftgröße je nach Bedarf */
+    font-size: 50px; /* Ändere die Schriftgröße je nach Bedarf */
     text-transform: uppercase;
     margin: 5px;
     padding: 10px;
