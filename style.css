@@ -239,7 +239,7 @@
   text-align: center;
 }
 
-.reset button.open {
+.open button {
     font-weight: 800;
     font-style: normal;
     transition: all 0.1s linear;
