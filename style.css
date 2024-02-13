@@ -280,8 +280,8 @@
       opacity: 1; /* Endet mit 100% Opazität */
     }
   }
-  
-  @media only screen and (max-width: 600px) {
+
+  @media only screen and (max-width: 800px) {
     /* Stile für kleine Bildschirme (z. B. Handys) */
     #envelope {
       width: 90%;
