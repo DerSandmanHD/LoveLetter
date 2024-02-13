@@ -288,12 +288,22 @@
   }
 
   .reset-button {
+    font-weight: 800;
+    font-style: normal;
+    transition: all 0.1s linear;
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: solid 2px #5c5b5b; /* Schwarze Farbe für den Rand */
+    border-radius: 4px;
+    color: #5c5b5b; /* Schwarze Textfarbe */
+    display: inline-block;
     font-size: 24px; /* Ändere die Schriftgröße je nach Bedarf */
-    /* Weitere Styling-Anpassungen für den Zurücksetzungs-Button */
+    text-transform: uppercase;
+    margin: 5px;
+    padding: 10px;
+    line-height: 1em;
+    text-decoration: none;
+    min-width: 120px;
+    cursor: pointer;
   }
-  
-
-
-
-
   
