@@ -281,3 +281,11 @@
     }
   }
   
+  @media only screen and (max-width: 600px) {
+    /* Stile für kleine Bildschirme (z. B. Handys) */
+    #envelope {
+      width: 90%;
+      margin: 20px auto;
+    }
+  }
+  
