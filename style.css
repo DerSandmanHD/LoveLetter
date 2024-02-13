@@ -249,7 +249,7 @@
     border-radius: 4px;
     color: #5c5b5b; /* Schwarze Textfarbe */
     display: inline-block;
-    font-size: 24px;
+    font-size: 14px;
     text-transform: uppercase;
     margin: 5px;
     padding: 10px;
@@ -286,6 +286,12 @@
       opacity: 1; /* Endet mit 100% Opazität */
     }
   }
+
+  .reset-button {
+    font-size: 24px; /* Ändere die Schriftgröße je nach Bedarf */
+    /* Weitere Styling-Anpassungen für den Zurücksetzungs-Button */
+  }
+  
 
 
 
