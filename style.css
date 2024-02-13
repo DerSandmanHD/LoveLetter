@@ -1,6 +1,6 @@
 @media only screen and (max-width: 600px) {
-  #envelope {
-    max-width: 100%;
+  #valentines-heading {
+    font-size: 24px; /* Kleiner Schriftgröße für Mobilgeräte */
   }
 }
 
