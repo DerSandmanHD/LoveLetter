@@ -140,7 +140,7 @@
     top: 0;
     width: 50px;
     height: 80px;
-    background: #a50f0f; /* Darker gray color */
+    background: #a50f0f; 
     border-radius: 50px 50px 0 0;
     transform: rotate(-45deg);
     transform-origin: 0 100%;
@@ -288,7 +288,7 @@
   }
 
   .reset-button {
-    font-size: 24px; /* Ändere die Schriftgröße je nach Bedarf */
+    font-size: 14px; /* Ändere die Schriftgröße je nach Bedarf */
     /* Weitere Styling-Anpassungen für den Zurücksetzungs-Button */
   }
   
